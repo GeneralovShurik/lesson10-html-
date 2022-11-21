@@ -1,0 +1,9 @@
+.mouse {
+    position: absolute;
+    z-index: 1;
+ 
+    background: url('https://shapka-youtube.ru/wp-content/uploads/2020/12/funny-ava-1.jpg') no-repeat;
+    background-size: 100%;
+    background-position: center;
+    transition: all 100ms;
+}
